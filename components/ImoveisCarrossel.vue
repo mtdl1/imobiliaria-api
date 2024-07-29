@@ -49,8 +49,6 @@ const options = {
     },
   },
 };
-
-
 </script>
 
 <style scoped>
