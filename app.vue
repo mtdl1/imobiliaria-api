@@ -10,10 +10,12 @@
 <script setup lang="ts">
 useSeoMeta({
   title: 'Anima Signature',
-  // ogTitle: 'My Amazing Site',
-  // description: 'This is my amazing site, let me tell you all about it.',
-  // ogDescription: 'This is my amazing site, let me tell you all about it.',
-  // ogImage: 'https://example.com/image.png',
-  // twitterCard: 'summary_large_image',
+  ogTitle: 'Empreendimento Alto Luxo em Belo Horizonte',
+  ogDescription: 'Conheça o Anima Signature, um empreendimento de alto luxo em Belo Horizonte. Apartamentos de 4 quartos com 4 suítes e 4 vagas de garagem.',
+  ogImage: '/predio-anima.jpg',
+  ogUrl: 'https://anima-signature.com.br',
+  twitterTitle: 'Empreendimento Alto Luxo em Belo Horizonte',
+  twitterDescription: 'Conheça o Anima Signature, um empreendimento de alto luxo em Belo Horizonte. Apartamentos de 4 quartos com 4 suítes e 4 vagas de garagem.',
+  twitterImage: '/predio-anima.jpg',
 })
 </script>

@@ -1,6 +1,6 @@
 <template>
   <div class="main-imoveis">
-    <h2>Últimos lançamentos excluisivos de alto luxo em BH</h2>
+    <h2>Conheça nossos empreendimentos</h2>
     <!-- <div class="imoveis">
       <div class="imovel" v-for="imovel in data.imoveis" :key="imovel.id">
         <img src="/predio-anima.jpg" alt="">

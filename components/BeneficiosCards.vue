@@ -28,7 +28,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5vh 0;
+  padding: 4% 0;
   margin: 0 auto;
   gap: 2vw;
 }
@@ -67,6 +67,7 @@
   .beneficios{
     max-width: 90%;
     flex-wrap: wrap;
+    padding: 10% 2%;
   }
 
   .beneficio {

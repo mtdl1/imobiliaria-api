@@ -55,4 +55,23 @@
   line-height: 1.5;
 }
 
+@media (max-width: 768px) {
+  .content {
+    width: 90%;
+    padding: 5vh 0;
+  }
+
+  .content h1 {
+    font-size: 2rem;
+    padding-right: 0;
+  }
+
+  .content strong {
+    font-size: 1.2rem;
+  }
+
+  .content p.text {
+    font-size: 0.9rem;
+  }
+}
 </style>
