@@ -2,8 +2,7 @@
   <div>
     <header>
       <div class="logo">
-        <!-- importar logo svg que ta na pasta public -->
-        <img src="/logo-imobiliaria.svg" alt="Logo" />
+        <img src="/icons/logo-imobiliaria.svg" alt="Logo" />
       </div>
     </header>
   </div>
@@ -11,8 +10,10 @@
 
 <style scoped>
 header{
-  background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
-  padding: 2% 8%;
+  padding: 2% 0;
+  width: 70%;
+  margin: 0 auto;
+  background: transparent;
 }
 
 .logo{
@@ -20,9 +21,26 @@ header{
 }
 
 .logo img{
-  max-width: 5%;
+  max-width: 6%;
   position: relative;
   bottom: -20px;
+}
+
+/* responsivo */
+@media (max-width: 768px) {
+  header{
+    width: 100%;
+  }
+
+  .logo{
+    width: 100%;
+    text-align: center;
+    position: unset;
+  }
+
+  .logo img{
+    max-width: 25%;
+  }
 }
 </style>
 
