@@ -1,75 +1,22 @@
-# Nuxt 3 Minimal Starter
+# Aplicação Front End de Consumo de API com Nuxt.js
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+- Esta é a Aplicação Front End de cadastro de usuário desenvolvida para comprovacção de conhecimento com os FrameWorks Vue.js e Nuxt.js com consumo e tratamento de API.
 
-## Setup
+- A aplicação foi construída utilizando Nuxt.js, TypeScript, API, e exibição dos Imóveis em Carrossel com Splide.js
 
-Make sure to install the dependencies:
+## Requisitos
+- Node.js
+- npm
 
-```bash
-# npm
-npm install
+## Instalação e Execução
 
-# pnpm
-pnpm install
+- 1. Clone o repositório https://github.com/mtdl1/imobiliaria-api.git
+- 2. Navegue até o diretório do projeto: cd imobiliaria-api
+- 3. Instale as dependências com o comando `npm install`.
+- 4. Rode o projeto `npm run dev`.
+- 5. Acesse `http://localhost:5173` no seu navegador ou a porta que ele exibir no seu terminal.
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Abaixo disponibilizo minhas informações de contato caso necessário:
+- Email: mateusdubovicky@hotmail.com ou dubovickydeveloper@gmail.com
+- LinkedIn: [Mateus Dubovicky](https://www.linkedin.com/in/mateus-dubovicky/)
+- WhatsApp: [+55 (19) 99818-5588](https://wa.me/5519998185588?text=Vim%20pelo%20Readme)
